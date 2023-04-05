@@ -24,4 +24,5 @@ ANSWER: Three hidden layers was used that can increase the accuracy but not able
 Were you able to achieve the target model performance?
 ANSWER: No
 
-
+Summary
+Unfortunately, 75% accuracy was unsuccessful to reach and I fell short of the 75% threshold which was the objective of this analysis.
